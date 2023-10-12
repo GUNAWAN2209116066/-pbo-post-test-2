@@ -83,28 +83,47 @@
   <li>Tambah karyawan</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/973ef381-d98b-4d27-83ff-e2b4f8461dab)
+  <p>Jika user menginputkan 1 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama karyawan dan gaji. Setelah itu, karyawan akan ditambahkan ke daftar orang.</p>
 
   <li>Tambah manajer</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/16a07a45-90b3-4927-9319-f197a9b2c8e0)
+  <p>Jika user menginputkan 2 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama manager dan gaji. Setelah itu, manager akan ditambahkan ke daftar orang.</p>
 
   <li>Tambah kasir</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/b48066f6-72ff-40fd-8f64-64550d27ce0a)
+  <p>Jika user menginputkan 3 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama kasir dan gaji. Setelah itu, kasir akan ditambahkan ke daftar orang. </p>
 
   <li>Tambah pelanggan</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/512e2f03-8862-4299-87ea-bd06cf1acfaf)
+  <p>Jika user menginputkan 4 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama pelanggan dan jumlah uang di dompet. Setelah itu, pelanggan akan ditambahkan ke daftar orang.</p>
 
   <li>Tambah produk olahraga</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/3699ee51-2a18-4714-affe-19e4ee8f44eb)
+  <p>Jika user menginputkan 5 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama produk olahraga dan harganya. Setelah itu, produk akan ditambahkan ke daftar orang.</p>
 
   <li>Tampilkan semua informasi</li>
 
   ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/58f34e74-6111-4a56-9d43-630b2d2dfd14)
+  <p>Jika user menginputkan 6 pada pilihan menu, maka Program akan mencetak semua informasi (nama dan atribut khusus masing-masing entitas) dari semua orang di daftar.</p>
 
   <li>Perbarui informasi</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/c97a7987-98d7-47d5-82b4-7599c580d4c0)
+  <p>Jika user menginputkan 7 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama orang yang ingin diperbarui informasinya. Jika nama ditemukan, program akan meminta untuk memasukkan informasi baru tergantung dari jenis entitas tersebut (gaji untuk karyawan, dompet untuk pelanggan, dan harga untuk produk).</p>
+
   <li>Hapus informasi</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/037f6040-ec2b-45d3-8c67-7883d3f31cfb)
+  <p>Jika user menginputkan 8 pada pilihan menu, maka Program akan meminta Anda untuk memasukkan nama orang yang ingin dihapus dari daftar. Jika nama ditemukan, orang tersebut akan dihapus dari daftar.</p>
+
   <li>Exit</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/1568f6ba-4b30-44a7-bfcb-290fb5d6792c)
+  <p>Jika user menginputkan 0 pada pilihan menu, maka Program akan keluar dari loop dan berhenti.</p>
 </ol>
+
+<p>Setiap kali Anda memilih salah satu menu, program akan menampilkan pesan yang sesuai sesuai dengan apa yang dijelaskan di atas. Misalnya, jika Anda memilih untuk menambahkan seorang karyawan, program akan meminta Anda memasukkan nama dan gaji, dan setelah itu akan menambahkan karyawan ke daftar. Hal yang sama berlaku untuk menu-menu lainnya.</p>
