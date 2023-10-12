@@ -42,6 +42,28 @@
 
 <ol>
   <li>Class Main</li>
+  <p>Class Main adalah class manajemen entitas (karyawan, manajer, kasir, pelanggan, dan produk) yang dapat melakukan berbagai tugas, seperti menambahkan, menampilkan, memperbarui, dan menghapus informasi. Di bawah ini adalah penjelasan fungsionalitas dari berbagai pilihan menu dalam class:</p>
+  <ol>
+    <li>Tambah Karyawan (1):</li>
+    <p>Pengguna diminta untuk memasukkan nama dan gaji karyawan baru. Informasi ini kemudian digunakan untuk membuat objek Employee yang kemudian ditambahkan ke dalam daftar orang (peopleList).</p>
+    <li>Tambah Manager (2):</li>
+    <p>Pengguna diminta untuk memasukkan nama dan gaji manager baru. Informasi ini kemudian digunakan untuk membuat objek Manajer yang kemudian ditambahkan ke dalam daftar orang (peopleList).</p>
+    <li>Tambah Kasir (3):</li>
+    <p>Pengguna diminta untuk memasukkan nama dan gaji kasir baru. Informasi ini kemudian digunakan untuk membuat objek Cashier yang kemudian ditambahkan ke dalam daftar orang (peopleList).</p>
+    <li>Tambah Pelanggan (4):</li>
+    <p>Pengguna diminta untuk memasukkan nama dan jumlah uang di dompet pelanggan baru. Informasi ini kemudian digunakan untuk membuat objek Customer yang kemudian ditambahkan ke dalam daftar orang (peopleList).</p>
+    <li>Tambah Produk Olahraga (5):</li>
+    <p>Pengguna diminta untuk memasukkan nama dan harga produk olahraga baru. Informasi ini kemudian digunakan untuk membuat objek Product yang kemudian ditambahkan ke dalam daftar orang (peopleList).</p>
+    <li>Tampilkan Semua Informasi (6):</li>
+    <p>Program akan menampilkan semua informasi dari setiap orang atau produk di dalam daftar.</p>
+    <li>Perbarui Informasi (7):</li>
+    <p>Pengguna diminta untuk memasukkan nama orang atau produk yang ingin diperbarui. Jika nama tersebut cocok dengan nama di dalam daftar, pengguna dapat memperbarui informasi terkait (gaji, dompet, atau harga).</p>
+    <li>Hapus Informasi (8):</li>
+    <p>Pengguna diminta untuk memasukkan nama orang atau produk yang ingin dihapus. Jika nama tersebut cocok dengan nama di dalam daftar, orang atau produk akan dihapus dari daftar.</p>
+    <li>Keluar (0):</li>
+    <p>Program akan selesai.</p>
+  </ol>
+  <p>Penting untuk diingat bahwa program ini berjalan dalam loop tak terbatas (while (true)) sehingga pengguna dapat terus melakukan operasi hingga memilih untuk keluar (menu 0). Selain itu, aplikasi juga memastikan bahwa setiap kali pengguna memasukkan angka, newline yang mungkin ada di buffer dibersihkan menggunakan scanner.nextLine() sebelum melanjutkan.</p>
   <li>Class Person</li>
   <li>Class Employee</li>
   <li>Class Product</li>
