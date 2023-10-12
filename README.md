@@ -80,11 +80,31 @@
 
 <h2>C. Penjelasan Output</h2>
 <ol>
-  <li>create</li>
-  <li>read</li>
-  <li>update</li>
-  <li>delete</li>
-  <li>EXIT</li>
-  <p>jika user menginputkan 5 maka program akan selesai</p>
+  <li>Tambah karyawan</li>
 
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/973ef381-d98b-4d27-83ff-e2b4f8461dab)
+
+  <li>Tambah manajer</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/16a07a45-90b3-4927-9319-f197a9b2c8e0)
+
+  <li>Tambah kasir</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/b48066f6-72ff-40fd-8f64-64550d27ce0a)
+
+  <li>Tambah pelanggan</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/512e2f03-8862-4299-87ea-bd06cf1acfaf)
+
+  <li>Tambah produk olahraga</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/3699ee51-2a18-4714-affe-19e4ee8f44eb)
+
+  <li>Tampilkan semua informasi</li>
+
+  ![image](https://github.com/GUNAWAN2209116066/-pbo-post-test-2/assets/127533024/58f34e74-6111-4a56-9d43-630b2d2dfd14)
+
+  <li>Perbarui informasi</li>
+  <li>Hapus informasi</li>
+  <li>Exit</li>
 </ol>
