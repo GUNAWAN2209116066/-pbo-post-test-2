@@ -1,6 +1,6 @@
 <h1>DOKUMENTASI PROJECT POSTTEST 2 PBO</h1>
 
-<P>Nama : Nazwa Talisya Inaya <br>NIM : 2209116063 <br>Kelas : Sistem Informasi B 2022</P>
+<P>Nama : Gunawan <br>NIM : 2209116066 <br>Kelas : Sistem Informasi B 2022</P>
 
 <h2>A. Screenshot Source Code</h2>
 
@@ -65,11 +65,17 @@
   </ol>
   <p>Penting untuk diingat bahwa program ini berjalan dalam loop tak terbatas (while (true)) sehingga pengguna dapat terus melakukan operasi hingga memilih untuk keluar (menu 0). Selain itu, aplikasi juga memastikan bahwa setiap kali pengguna memasukkan angka, newline yang mungkin ada di buffer dibersihkan menggunakan scanner.nextLine() sebelum melanjutkan.</p>
   <li>Class Person</li>
+  <p>kelas Person adalah kelas dasar atau induk dari hierarki kelas yang lebih spesifik. Itu menyediakan kerangka dasar yang dibutuhkan untuk mewakili individu dalam sistem atau aplikasi yang lebih besar. Namun, karena kelas ini bersifat abstrak, maka tidak dapat diinstansiasi secara langsung, melainkan digunakan sebagai kerangka untuk kelas-kelas turunannya.</p>
   <li>Class Employee</li>
+  <p>kelas Employee adalah kelas yang merepresentasikan seorang karyawan, dengan atribut nama dan gaji, serta memiliki kemampuan untuk menampilkan informasi tersebut.</p>
   <li>Class Product</li>
+  <p>kelas Product adalah kelas yang merepresentasikan sebuah produk, dengan atribut nama dan harga, serta memiliki kemampuan untuk menampilkan informasi tersebut</p>
   <li>Class Manajer</li>
+  <p>kelas Manajer adalah turunan dari kelas Employee yang merepresentasikan seorang manajer. Itu memiliki atribut nama dan gaji, serta memiliki kemampuan untuk menampilkan informasi tersebut.</p>
   <li>Class Customer</li>
+  <p>kelas Customer adalah turunan dari kelas Person yang merepresentasikan seorang pelanggan. Itu memiliki atribut nama dan jumlah uang dalam dompet, serta memiliki kemampuan untuk menampilkan informasi tersebut.</p>
   <li>Class Cashier</li>
+  <p>kelas Cashier adalah turunan dari kelas Employee yang merepresentasikan seorang kasir. Itu memiliki atribut nama dan gaji, serta memiliki kemampuan untuk menampilkan informasi tersebut.</p>
 </ol>
 
 <h2>C. Penjelasan Output</h2>
